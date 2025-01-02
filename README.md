@@ -16,7 +16,6 @@ WeChat-Custom-MassMessenger
 ├─ main.py                               
 ├─ README.md                             
 └─ requirements.txt                                                       
-
 ```
 
 ## 功能

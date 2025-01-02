@@ -1,6 +1,5 @@
 # WeChat Custom MassMessenger
 
-## 简介
 WeChat Custom MassMessenger 是一个微信自定义群发祝福脚本。主要支持自定义消息模板和提取微信好友列表并设置称呼的功能，能够发送带称呼的节日祝福语。
 
 ## 项目结构
